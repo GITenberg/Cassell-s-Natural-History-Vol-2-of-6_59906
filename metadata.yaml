@@ -1,0 +1,31 @@
+_repo: Cassell-s-Natural-History-Vol-2-of-6_59906
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Duncan, P. Martin (Peter Martin)
+    aliases:
+    - Duncan, Peter Martin
+    - Duncan, P. M. (Peter Martin)
+    - Duncan, Martin (Peter Martin)
+    birthdate: 1821
+    deathdate: 1891
+    gutenberg_agent_id: '43373'
+    url: http://www.gutenberg.org/2009/agents/43373
+description: ''
+gutenberg_issued: '2019-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59906'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Cassell's Natural History, Vol. 2 (of 6)
+url: http://www.gutenberg.org/ebooks/59906
